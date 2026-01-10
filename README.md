@@ -59,7 +59,7 @@ Evaluation was performed using the following metrics:
 
   **[ROC Curve] (images./ROC_curve_diabetes_dataset.png)**
 
--Random Forest Classifier demonstrated superior predictive performance compared to other models.
+- Random Forest Classifier demonstrated superior predictive performance compared to other models.
 
   **[Performance Scores]:**
 
