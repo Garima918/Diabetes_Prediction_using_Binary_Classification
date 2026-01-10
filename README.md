@@ -20,6 +20,7 @@ Input Features:
 - Age
 Target Variable:
 - Outcome (0 = Non - Diabetic, 1 = Diabetic)
+
 **[Dataset Features] (images./Dataset_features_diabetes.png)**
 
 ## Notebook (Google Colab)
