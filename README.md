@@ -58,11 +58,14 @@ Evaluation was performed using the following metrics:
 - Logistic Regression achieved a ROC AUC of 0.73.
 
 **[ROC Curve] (images./ROC_curve_diabetes_dataset.png)**
+
 -Random Forest Classifier demonstrated superior predictive performance compared to other models.
 
-**[Performance Scores]:
-{Before Preprocessing} (images./Performance_scores_before_preprocessing.png)
-{After Preprocessing} (images./Performance_scores_after_preprocessing.png)**
+**[Performance Scores]:**
+
+**{Before Preprocessing} (images./Performance_scores_before_preprocessing.png)**
+
+**{After Preprocessing} (images./Performance_scores_after_preprocessing.png)**
  
 ## Project Structure
 diabetes-prediction/
@@ -96,8 +99,9 @@ diabetes-prediction/
 - Gained insights into the importance of data scaling, as model performance varied   significantly before and after preprocessing.
 - Utilized correlation matrices to examine relationships among features.
   
-**[Correlation Matrix] (images./Heatmap_diabetes_dataset.png)
-[Correlation Matrix] (images./Pairplot_diabetes_dataset.png)**
+**[Correlation Matrix] (images./Heatmap_diabetes_dataset.png)**
+
+**[Correlation Matrix] (images./Pairplot_diabetes_dataset.png)**
 
 - Acquired practical experience processing and analyzing real-world healthcare data.
 
