@@ -18,6 +18,7 @@ Input Features:
 - Body Mass Index (BMI)
 - Diabetes Pedigree Function
 - Age
+
 Target Variable:
 - Outcome (0 = Non - Diabetic, 1 = Diabetic)
 
