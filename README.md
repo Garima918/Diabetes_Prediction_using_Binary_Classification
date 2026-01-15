@@ -7,9 +7,13 @@ This project focuses on building a machine learning classification model to pred
 Diabetes is a major healthcare concern worldwide. Early prediction enables preventive care, timely diagnosis, and better treatment outcomes. This project demonstrates how data-driven models can support clinical decision-making.
 
 ## Dataset
+
 The dataset contains diagnostic health measurements from a publicly available dataset.
+
 Source: Kaggle – Pima Indians Diabetes Dataset
+
 Input Features:
+
 - Pregnancies
 - Glucose
 - Blood Pressure
